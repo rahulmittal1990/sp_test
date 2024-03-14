@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SkyPanion.Core.BLL
+build_property.ProjectDir = C:\Data\Projects\sp_test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
